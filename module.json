@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "description": "<p>Foundry integration of the Mystic Class published in Unearthed Arcana during 2017. This module is playable with the 2024 ruleset.</p>",
   "authors": [
@@ -27,7 +27,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "flags": {}
     }
   ]
 }
